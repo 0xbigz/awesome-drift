@@ -1,17 +1,32 @@
-# awesome-drift
-list of awesome open sourced drift work
+<h1 align="center">awesome-drift</h1>
+
+<div align="center">
+  🏎️🏎️🏎️
+</div>
+
+<div align="center">
+  <strong>📈 A curated list of awesome things related to Drift Protocol 📈
+</strong>
+  
+  Please submit a pull request if you know any resources that might be helpful to other researchers/developers!
+</div>
+
+<div align="center">
+  
+  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div> 
 
 
 liquidators:
 ---
-- https://github.com/RealAwesomeness/drift-liquidator
-
+- [Rust Liquidator](https://github.com/RealAwesomeness/drift-liquidator) by [RealAwesomeness](https://github.com/RealAwesomeness)
+- [Javascript Liquidator](https://github.com/lmvdz/drift-liquidation-bot) by [lmvdz](https://github.com/lmvdz)
 
 arbitrageurs:
 ---
-- https://github.com/chenwainuo/drifting-mango
+- [Drift-Mango Bot](https://github.com/chenwainuo/drifting-mango) by [chenwainuo](https://github.com/chenwainuo)
 
 
 research:
 ---
-- https://github.com/mystericalfox/working-docs/blob/main/Proposals_for_Parameter_Optimization_in_dAMMs.pdf
+- [Proposals for Parameter Optimization in dAMMs](https://github.com/mystericalfox/working-docs/blob/main/Proposals_for_Parameter_Optimization_in_dAMMs.pdf) by [mystericalfox](https://github.com/mystericalfox)
