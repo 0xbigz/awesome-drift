@@ -22,7 +22,7 @@ got a cool idea? there is an [active Drift Bounty Program](https://driftprotocol
 liquidators:
 ---
 - [Rust Liquidator](https://github.com/RealAwesomeness/drift-liquidator) by [RealAwesomeness](https://github.com/RealAwesomeness)
-- [Javascript Liquidator](https://github.com/lmvdz/drift-liquidation-bot) by [lmvdz](https://github.com/lmvdz)
+- [Typescript Liquidator](https://github.com/lmvdz/drift-liquidation-bot) by [lmvdz](https://github.com/lmvdz)
 
 arbitrageurs:
 ---
