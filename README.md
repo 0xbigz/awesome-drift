@@ -17,6 +17,8 @@
 </div> 
 
 
+got a cool idea? there is an [active Drift Bounty Program](https://driftprotocol.medium.com/drift-protocol-x-the-solana-foundation-bounty-program-700d358eda3d)! You can [submit here](https://airtable.com/shrr9P6h2tyTZZACy)
+
 liquidators:
 ---
 - [Rust Liquidator](https://github.com/RealAwesomeness/drift-liquidator) by [RealAwesomeness](https://github.com/RealAwesomeness)
