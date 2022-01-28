@@ -30,8 +30,13 @@ arbitrageurs:
 - [Drift-Mango Bot](https://github.com/chenwainuo/drifting-mango) by [chenwainuo](https://github.com/chenwainuo)
 - [Drift-FTX](https://github.com/L1lykn1ght/Drift-FTX) by [L1lykn1ght](https://github.com/L1lykn1ght)
 
+vaults/on-chain:
+---
+- [drift-cpi-example](https://github.com/drift-labs/cpi-example) by [crispheaney](https://github.com/crispheaney)
+
 data:
 ---
+- [drift-discord-bot](https://github.com/DaemonWAGMI/drift-discord-bot) by [DaemonWAGMI](https://github.com/DaemonWAGMI)
 - [drift-twitter-bot](https://github.com/DaemonWAGMI/drift-twitter-bot) by [DaemonWAGMI](https://github.com/DaemonWAGMI)
 - [platyperps](http://www.platyperps.com/)
   - [solana-perps](https://github.com/0xbigz/solana-perps) by [0xbigz](https://github.com/0xbigz)
@@ -44,3 +49,7 @@ research:
 ---
 - [dAMM Deep Dive](https://foregoing-script-fd0.notion.site/Drift-s-dAMM-ff154003aedb4efa83d6e7f4440cd4ab) by [bigz_Pubkey](https://github.com/0xbigz)
 - [Proposals for Parameter Optimization in dAMMs](https://github.com/mystericalfox/working-docs/blob/main/Proposals_for_Parameter_Optimization_in_dAMMs.pdf) by [mystericalfox](https://github.com/mystericalfox)
+- more vAMM
+  - [Hubble Whitepaper (Avalanche)](https://docs.google.com/document/d/1v8V56_M30dyEbnCaUkEH18_S7YeApkNZin1NM8suPsQ/)
+- more DeFi 
+ - https://github.com/0xperp/defi-derivatives
