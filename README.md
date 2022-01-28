@@ -23,12 +23,24 @@ liquidators:
 ---
 - [Rust Liquidator](https://github.com/RealAwesomeness/drift-liquidator) by [RealAwesomeness](https://github.com/RealAwesomeness)
 - [Typescript Liquidator](https://github.com/lmvdz/drift-liquidation-bot) by [lmvdz](https://github.com/lmvdz)
+- ["Faster" Liquidator](https://github.com/tomland123/faster-drift-liquidator) by [tomland123](https://github.com/tomland123)
 
 arbitrageurs:
 ---
 - [Drift-Mango Bot](https://github.com/chenwainuo/drifting-mango) by [chenwainuo](https://github.com/chenwainuo)
+- [Drift-FTX](https://github.com/L1lykn1ght/Drift-FTX) by [L1lykn1ght](https://github.com/L1lykn1ght)
+
+data:
+---
+- [drift-twitter-bot](https://github.com/DaemonWAGMI/drift-twitter-bot) by [DaemonWAGMI](https://github.com/DaemonWAGMI)
+- [platyperps](http://www.platyperps.com/)
+  - [solana-perps](https://github.com/0xbigz/solana-perps) by [0xbigz](https://github.com/0xbigz)
+- [drift-flat-data](https://github.com/0xbigz/drift-flat-data) by [0xbigz](https://github.com/0xbigz)
+  - forked collection by 
+  - [drift-flat-data-tool](https://github.com/0xbigz/drift-flat-data-tool)
 
 
 research:
 ---
+- [dAMM Deep Dive](https://foregoing-script-fd0.notion.site/Drift-s-dAMM-ff154003aedb4efa83d6e7f4440cd4ab) by [bigz_Pubkey](https://github.com/0xbigz)
 - [Proposals for Parameter Optimization in dAMMs](https://github.com/mystericalfox/working-docs/blob/main/Proposals_for_Parameter_Optimization_in_dAMMs.pdf) by [mystericalfox](https://github.com/mystericalfox)
