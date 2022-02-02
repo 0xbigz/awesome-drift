@@ -29,6 +29,7 @@ arbitrageurs:
 ---
 - [Drift-Mango Bot](https://github.com/chenwainuo/drifting-mango) by [chenwainuo](https://github.com/chenwainuo)
 - [Drift-FTX](https://github.com/L1lykn1ght/Drift-FTX) by [L1lykn1ght](https://github.com/L1lykn1ght)
+- [Drift-Arb](https://github.com/L1lykn1ght/Drift-Arb) by [L1lykn1ght](https://github.com/L1lykn1ght)
 
 vaults/on-chain:
 ---
@@ -41,8 +42,10 @@ data:
 - [platyperps](http://www.platyperps.com/)
   - [solana-perps](https://github.com/0xbigz/solana-perps) by [0xbigz](https://github.com/0xbigz)
 - [drift-flat-data](https://github.com/0xbigz/drift-flat-data) by [0xbigz](https://github.com/0xbigz)
-  - forked collection by 
+  - forked snapshots collection by run by [0xperp,bowenyou,DaemonWAGMI,federicohellmund](https://github.com/0xbigz/drift-flat-data/network/members)
+    - How to Join (help collect historical data): 1) fork repo 2) manually trigger the workflow once 3) done! from there periodically scraping the data onchain ~ every 5 minutes
   - [drift-flat-data-tool](https://github.com/0xbigz/drift-flat-data-tool)
+  - [toirt](https://toirt.com/) community hosted website with historical data stitched drift-flat-data
 
 
 research:
