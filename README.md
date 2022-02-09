@@ -19,18 +19,25 @@
 
 got a cool idea? there is an [active Drift Bounty Program](https://driftprotocol.medium.com/drift-protocol-x-the-solana-foundation-bounty-program-700d358eda3d)! You can [submit here](https://airtable.com/shrr9P6h2tyTZZACy)
 
+sdk:
+---
+- [Typescript SDK](https://github.com/drift-labs/protocol-v1/tree/master/sdk)
+- [Python SDK](https://github.com/drift-labs/driftpy)
+
+
 liquidators:
 ---
 - [Rust Liquidator](https://github.com/RealAwesomeness/drift-liquidator) by [RealAwesomeness](https://github.com/RealAwesomeness)
+- [Rust Liquidator](https://github.com/otter-sec/drift-liquidator) by [otter-sec](https://github.com/otter-sec)
 - [Typescript Liquidator](https://github.com/lmvdz/drift-liquidation-bot) by [lmvdz](https://github.com/lmvdz)
-- ["Faster" Liquidator](https://github.com/tomland123/faster-drift-liquidator) by [tomland123](https://github.com/tomland123)
+- ["Faster" Typescript Liquidator](https://github.com/tomland123/faster-drift-liquidator) by [tomland123](https://github.com/tomland123)
 
 arbitrageurs:
 ---
 - [Drift-Mango Bot](https://github.com/chenwainuo/drifting-mango) by [chenwainuo](https://github.com/chenwainuo)
-- [Drift-FTX](https://github.com/L1lykn1ght/Drift-FTX) by [L1lykn1ght](https://github.com/L1lykn1ght)
 - [Drift-Arb](https://github.com/L1lykn1ght/Drift-Arb) by [L1lykn1ght](https://github.com/L1lykn1ght)
-
+  - [Simplier "Drift-FTX"](https://github.com/L1lykn1ght/Drift-FTX) by [L1lykn1ght](https://github.com/L1lykn1ght)
+ 
 vaults/on-chain:
 ---
 - [drift-cpi-example](https://github.com/drift-labs/cpi-example) by [crispheaney](https://github.com/crispheaney)
