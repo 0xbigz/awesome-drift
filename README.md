@@ -27,16 +27,16 @@ sdk:
 
 liquidators:
 ---
-- [Rust Liquidator](https://github.com/RealAwesomeness/drift-liquidator) by [RealAwesomeness](https://github.com/RealAwesomeness)
-- [Rust Liquidator](https://github.com/otter-sec/drift-liquidator) by [otter-sec](https://github.com/otter-sec)
+- [Rust Liquidator](https://github.com/otter-sec/drift-liquidator) by [otter-sec](https://github.com/otter-sec) ([RealAwesomeness](https://github.com/RealAwesomeness))
 - [Typescript Liquidator](https://github.com/lmvdz/drift-liquidation-bot) by [lmvdz](https://github.com/lmvdz)
 - ["Faster" Typescript Liquidator](https://github.com/tomland123/faster-drift-liquidator) by [tomland123](https://github.com/tomland123)
 
 arbitrageurs:
 ---
-- [Drift-Mango Bot](https://github.com/chenwainuo/drifting-mango) by [chenwainuo](https://github.com/chenwainuo)
-- [Drift-Arb](https://github.com/L1lykn1ght/Drift-Arb) by [L1lykn1ght](https://github.com/L1lykn1ght)
-  - [Simplier "Drift-FTX"](https://github.com/L1lykn1ght/Drift-FTX) by [L1lykn1ght](https://github.com/L1lykn1ght)
+- [Drift-Mango Arb Bot](https://github.com/chenwainuo/drifting-mango) by [chenwainuo](https://github.com/chenwainuo)
+- [Drift-01 Arb Bot](https://github.com/01protocol/zo-arb) by [Beau-Coup](https://github.com/Beau-Coup)
+- [Drift-FTX Arb](https://github.com/L1lykn1ght/Drift-Arb) by [L1lykn1ght](https://github.com/L1lykn1ght)
+  - [Simplier "Drift-FTX" "Funding Carry"](https://github.com/L1lykn1ght/Drift-FTX) by [L1lykn1ght](https://github.com/L1lykn1ght)
  
 vaults/on-chain:
 ---
