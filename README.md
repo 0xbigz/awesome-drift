@@ -46,6 +46,7 @@ data:
 ---
 - [drift-discord-bot](https://github.com/DaemonWAGMI/drift-discord-bot) by [DaemonWAGMI](https://github.com/DaemonWAGMI)
 - [drift-twitter-bot](https://github.com/DaemonWAGMI/drift-twitter-bot) by [DaemonWAGMI](https://github.com/DaemonWAGMI)
+- [blockrover](https://blockrover.xyz/search?q=drift) by [blockrover](https://blockrover.xyz)
 - [platyperps](http://www.platyperps.com/)
   - [solana-perps](https://github.com/0xbigz/solana-perps) by [0xbigz](https://github.com/0xbigz)
 - [drift-flat-data](https://github.com/0xbigz/drift-flat-data) by [0xbigz](https://github.com/0xbigz)
